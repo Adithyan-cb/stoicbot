@@ -1,8 +1,8 @@
 import requests
 import discord
 # bot token and channel id
-BOT_TOKEN = "MTA5NTkzMTI5MzYwMDA1NTMxOA.GAilCN.HR8AmnNnQ9xVDWFCjnLhUxepjDhJHcJOwEectU"
-CHANNEL_ID = "1095935659811799131"
+BOT_TOKEN = "ENTER YOUR DISCORD BOT TOKEN"
+CHANNEL_ID = "ENTER YOUR DISCORD CHANNEL ID"
 
 # getting the quotes from the API
 URL = "https://api.themotivate365.com/stoic-quote"
